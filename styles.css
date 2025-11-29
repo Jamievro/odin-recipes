@@ -1,0 +1,16 @@
+h1{background-color: red;
+    color: wheat;
+margin: 24px 300px;
+padding: 8px ;
+text-align: center;
+font-family: "Brush Script MT", "Brush Script Std", cursive ;}
+
+body{background: rgb(67, 135, 238);}
+
+li{font-size: 20px;
+font-family: "Brush Script MT", "Brush Script Std", cursive;
+font-weight: bold;
+}
+
+a{color: wheat;}
+
