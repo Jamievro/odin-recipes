@@ -1,0 +1,28 @@
+*{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+h1{text-align: center;
+padding: 10px;}
+
+body{background: sienna;}
+
+img{display: block;
+margin: auto;}
+
+h3{font-size: 24px;
+margin-top: 24px;
+;}
+
+#Description{margin-bottom: -32px;}
+
+p:not(#exclude){background-color: white;
+padding: 40px;
+margin-top: -20px;}
+
+.list{margin-right: 600px;
+border-style: dotted;
+border-color: black;
+border-width: 3px;}
+
+.orlist,
+.list{background-color: whitesmoke;
+padding:24px;}
