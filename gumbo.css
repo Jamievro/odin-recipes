@@ -26,3 +26,11 @@ border-width: 3px;}
 .orlist,
 .list{background-color: whitesmoke;
 padding:24px;}
+
+.highlight{background-color: rgb(226, 43, 150);
+border-style:groove;
+border-color: white;
+border-width: 4px;
+}
+
+a:visited{color: white;}
